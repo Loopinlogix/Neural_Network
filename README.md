@@ -1,5 +1,5 @@
 # Neural_Network
-%%writefile README.md
+
 
 # Handwritten Digit Classification using a Simple Neural Network (MNIST Dataset)
 
